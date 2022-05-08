@@ -1,4 +1,4 @@
-Java Hello World Demo
+Java Maven Demo
 =====================
 
 Use maven for Java.
