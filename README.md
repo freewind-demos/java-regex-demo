@@ -1,7 +1,7 @@
-Java Maven Demo
+Java Regex Demo
 =====================
 
-Use maven for Java.
+Java的正则表达式
 
 How to run:
 
